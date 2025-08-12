@@ -106,8 +106,8 @@ export const ServicesSection = () => {
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
             <div className="absolute bottom-4 left-4 text-white">
-              <h3 className="text-xl font-bold">Guincho Bruto</h3>
-              <p className="text-sm opacity-90">Equipamentos modernos e seguros</p>
+              <h3 className="text-xl font-bold">Bruto Guincho</h3>
+              <p className="text-sm opacity-90"></p>
             </div>
           </div>
         </div>
