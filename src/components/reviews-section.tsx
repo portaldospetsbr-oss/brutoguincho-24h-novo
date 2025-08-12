@@ -59,7 +59,7 @@ const reviews = [
     avatar: "P"
   },
   {
-    name: "Vitória Macchado",
+    name: "Vitória Machado",
     role: "Cliente",
     rating: 5,
     time: "8 meses atrás",
