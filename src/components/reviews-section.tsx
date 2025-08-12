@@ -141,7 +141,6 @@ export const ReviewsSection = () => {
         </div>
         <div className="text-center mt-12">
           <div className="inline-flex items-center gap-2 bg-white px-6 py-3 rounded-full shadow-md">
-            <img 
               src=
               alt="Google" 
               className="w-5 h-5"
