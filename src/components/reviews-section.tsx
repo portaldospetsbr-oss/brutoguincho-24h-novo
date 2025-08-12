@@ -139,8 +139,6 @@ export const ReviewsSection = () => {
             </Card>
           ))}
         </div>
-
-
             </span>
           </div>
         </div>
