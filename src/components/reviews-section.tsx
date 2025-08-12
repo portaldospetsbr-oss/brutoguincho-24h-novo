@@ -139,19 +139,7 @@ export const ReviewsSection = () => {
             </Card>
           ))}
         </div>
-        <div className="text-center mt-12">
-          <div className="inline-flex items-center gap-2 bg-white px-6 py-3 rounded-full shadow-md">
-              src=
-              alt="Google" 
-              className="w-5 h-5"
-            />
-            <span className="text-sm font-medium text-gray-700">
-              Avaliações verificadas pelo Google
-            </span>
-          </div>
-        </div>
       </div>
     </section>
   )
 }
-
