@@ -143,7 +143,7 @@ export const ReviewsSection = () => {
         <div className="text-center mt-12">
           <div className="inline-flex items-center gap-2 bg-white px-6 py-3 rounded-full shadow-md">
             <img 
-              src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" 
+              src="https://raichu-uploads.s3.amazonaws.com/companypagedetail_41663a8b-ca50-4a9f-b0a2-0e7566d07f5e.png" 
               alt="Google" 
               className="w-5 h-5"
             />
